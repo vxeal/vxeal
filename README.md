@@ -5,5 +5,5 @@
 
 I enjoy making things.
 
-![stats](https://github-readme-stats.vercel.app/api?username=vxael&show_icons=true&theme=material-palenight)
-![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxael&layout=compact&theme=material-palenight)
+![stats](https://github-readme-stats.vercel.app/api?username=vxeal&show_icons=true&theme=material-palenight)
+![toplangs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxeal&layout=compact&theme=material-palenight)
